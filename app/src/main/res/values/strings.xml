@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VMusic</string>
+    <string name="my_music">My Music</string>
+    <string name="all_track">All-Track</string>
+    <string name="all_audio">All-Audio</string>
+    <string name="genre_classic">Classical</string>
+    <string name="genre_ambient">Ambient</string>
+    <string name="genre_alter_native_rock">AlterNativeRock</string>
+    <string name="genre_country">Country</string>
+    <string name="search">Search</string>
+    <string name="online">Online</string>
+    <string name="player">Now Playing</string>
+    <string name="error_empty_list">Empty List</string>
+    <string name="error_end_of_list">End of List</string>
+    <string name="error_get_track_local">Error</string>
+    <string name="loop_one">1</string>
+    <string name="search_hint">Enter track name</string>
+    <string name="search_no_result">No result</string>
+    <string name="cannot_download">Can not download this file</string>
+</resources>
